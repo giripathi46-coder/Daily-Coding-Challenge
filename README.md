@@ -9,6 +9,7 @@
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0067-add-binary](https://github.com/giripathi46-coder/LeetCodeSolvedProblems/tree/main/0067-add-binary/) | Easy |
 | [1603-design-parking-system](https://github.com/giripathi46-coder/LeetCodeSolvedProblems/tree/main/1603-design-parking-system/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
@@ -26,6 +27,7 @@
 | [0009-palindrome-number](https://github.com/giripathi46-coder/LeetCodeSolvedProblems/tree/main/0009-palindrome-number/) | Easy |
 | [0013-roman-to-integer](https://github.com/giripathi46-coder/LeetCodeSolvedProblems/tree/main/0013-roman-to-integer/) | Easy |
 | [0066-plus-one](https://github.com/giripathi46-coder/LeetCodeSolvedProblems/tree/main/0066-plus-one/) | Easy |
+| [0067-add-binary](https://github.com/giripathi46-coder/LeetCodeSolvedProblems/tree/main/0067-add-binary/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -48,6 +50,7 @@
 | [0020-valid-parentheses](https://github.com/giripathi46-coder/LeetCodeSolvedProblems/tree/main/0020-valid-parentheses/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/giripathi46-coder/LeetCodeSolvedProblems/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0058-length-of-last-word](https://github.com/giripathi46-coder/LeetCodeSolvedProblems/tree/main/0058-length-of-last-word/) | Easy |
+| [0067-add-binary](https://github.com/giripathi46-coder/LeetCodeSolvedProblems/tree/main/0067-add-binary/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -94,4 +97,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/giripathi46-coder/LeetCodeSolvedProblems/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0067-add-binary](https://github.com/giripathi46-coder/LeetCodeSolvedProblems/tree/main/0067-add-binary/) | Easy |
 <!---LeetCode Topics End-->
