@@ -55,6 +55,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/giripathi46-coder/LeetCodeSolvedProblems/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0014-longest-common-prefix](https://github.com/giripathi46-coder/LeetCodeSolvedProblems/tree/main/0014-longest-common-prefix/) | Easy |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/giripathi46-coder/LeetCodeSolvedProblems/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0027-remove-element](https://github.com/giripathi46-coder/LeetCodeSolvedProblems/tree/main/0027-remove-element/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -68,6 +69,7 @@
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/giripathi46-coder/LeetCodeSolvedProblems/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/giripathi46-coder/LeetCodeSolvedProblems/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0027-remove-element](https://github.com/giripathi46-coder/LeetCodeSolvedProblems/tree/main/0027-remove-element/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
