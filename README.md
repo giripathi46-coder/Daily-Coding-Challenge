@@ -41,6 +41,7 @@
 | [0005-longest-palindromic-substring](https://github.com/giripathi46-coder/LeetCodeSolvedProblems/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0010-regular-expression-matching](https://github.com/giripathi46-coder/LeetCodeSolvedProblems/tree/main/0010-regular-expression-matching/) | Hard |
 | [0013-roman-to-integer](https://github.com/giripathi46-coder/LeetCodeSolvedProblems/tree/main/0013-roman-to-integer/) | Easy |
+| [0014-longest-common-prefix](https://github.com/giripathi46-coder/LeetCodeSolvedProblems/tree/main/0014-longest-common-prefix/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -49,6 +50,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/giripathi46-coder/LeetCodeSolvedProblems/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+| [0014-longest-common-prefix](https://github.com/giripathi46-coder/LeetCodeSolvedProblems/tree/main/0014-longest-common-prefix/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -66,4 +68,8 @@
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/giripathi46-coder/LeetCodeSolvedProblems/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0010-regular-expression-matching](https://github.com/giripathi46-coder/LeetCodeSolvedProblems/tree/main/0010-regular-expression-matching/) | Hard |
+## Trie
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/giripathi46-coder/LeetCodeSolvedProblems/tree/main/0014-longest-common-prefix/) | Easy |
 <!---LeetCode Topics End-->
