@@ -32,6 +32,7 @@
 | [0069-sqrtx](https://github.com/giripathi46-coder/LeetCodeSolvedProblems/tree/main/0069-sqrtx/) | Easy |
 | [0070-climbing-stairs](https://github.com/giripathi46-coder/LeetCodeSolvedProblems/tree/main/0070-climbing-stairs/) | Easy |
 | [0507-perfect-number](https://github.com/giripathi46-coder/LeetCodeSolvedProblems/tree/main/0507-perfect-number/) | Easy |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/giripathi46-coder/LeetCodeSolvedProblems/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/giripathi46-coder/LeetCodeSolvedProblems/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
@@ -70,6 +71,7 @@
 | [0035-search-insert-position](https://github.com/giripathi46-coder/LeetCodeSolvedProblems/tree/main/0035-search-insert-position/) | Easy |
 | [0066-plus-one](https://github.com/giripathi46-coder/LeetCodeSolvedProblems/tree/main/0066-plus-one/) | Easy |
 | [0704-binary-search](https://github.com/giripathi46-coder/LeetCodeSolvedProblems/tree/main/0704-binary-search/) | Easy |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/giripathi46-coder/LeetCodeSolvedProblems/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/giripathi46-coder/LeetCodeSolvedProblems/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/giripathi46-coder/LeetCodeSolvedProblems/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 ## Binary Search
