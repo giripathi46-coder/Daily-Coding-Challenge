@@ -10,7 +10,7 @@ class Solution {
                 c+=1;
             }
             if(c%2==0){
-                count+=1;
+                count++;
             }
         }
         return count;
