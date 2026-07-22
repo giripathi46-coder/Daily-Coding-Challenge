@@ -75,6 +75,7 @@
 | [0027-remove-element](https://github.com/giripathi46-coder/LeetCodeSolvedProblems/tree/main/0027-remove-element/) | Easy |
 | [0035-search-insert-position](https://github.com/giripathi46-coder/LeetCodeSolvedProblems/tree/main/0035-search-insert-position/) | Easy |
 | [0066-plus-one](https://github.com/giripathi46-coder/LeetCodeSolvedProblems/tree/main/0066-plus-one/) | Easy |
+| [0283-move-zeroes](https://github.com/giripathi46-coder/LeetCodeSolvedProblems/tree/main/0283-move-zeroes/) | Easy |
 | [0704-binary-search](https://github.com/giripathi46-coder/LeetCodeSolvedProblems/tree/main/0704-binary-search/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/giripathi46-coder/LeetCodeSolvedProblems/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/giripathi46-coder/LeetCodeSolvedProblems/tree/main/1480-running-sum-of-1d-array/) | Easy |
@@ -98,6 +99,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/giripathi46-coder/LeetCodeSolvedProblems/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/giripathi46-coder/LeetCodeSolvedProblems/tree/main/0027-remove-element/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/giripathi46-coder/LeetCodeSolvedProblems/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+| [0283-move-zeroes](https://github.com/giripathi46-coder/LeetCodeSolvedProblems/tree/main/0283-move-zeroes/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
