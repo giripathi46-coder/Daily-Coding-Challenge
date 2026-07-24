@@ -57,6 +57,7 @@
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/giripathi46-coder/LeetCodeSolvedProblems/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0005-longest-palindromic-substring](https://github.com/giripathi46-coder/LeetCodeSolvedProblems/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0006-zigzag-conversion](https://github.com/giripathi46-coder/LeetCodeSolvedProblems/tree/main/0006-zigzag-conversion/) | Medium |
 | [0010-regular-expression-matching](https://github.com/giripathi46-coder/LeetCodeSolvedProblems/tree/main/0010-regular-expression-matching/) | Hard |
 | [0013-roman-to-integer](https://github.com/giripathi46-coder/LeetCodeSolvedProblems/tree/main/0013-roman-to-integer/) | Easy |
 | [0014-longest-common-prefix](https://github.com/giripathi46-coder/LeetCodeSolvedProblems/tree/main/0014-longest-common-prefix/) | Easy |
