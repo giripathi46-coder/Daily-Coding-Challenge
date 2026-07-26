@@ -28,6 +28,7 @@
 | [0002-add-two-numbers](https://github.com/giripathi46-coder/LeetCodeSolvedProblems/tree/main/0002-add-two-numbers/) | Medium |
 | [0009-palindrome-number](https://github.com/giripathi46-coder/LeetCodeSolvedProblems/tree/main/0009-palindrome-number/) | Easy |
 | [0013-roman-to-integer](https://github.com/giripathi46-coder/LeetCodeSolvedProblems/tree/main/0013-roman-to-integer/) | Easy |
+| [0029-divide-two-integers](https://github.com/giripathi46-coder/LeetCodeSolvedProblems/tree/main/0029-divide-two-integers/) | Medium |
 | [0066-plus-one](https://github.com/giripathi46-coder/LeetCodeSolvedProblems/tree/main/0066-plus-one/) | Easy |
 | [0067-add-binary](https://github.com/giripathi46-coder/LeetCodeSolvedProblems/tree/main/0067-add-binary/) | Easy |
 | [0069-sqrtx](https://github.com/giripathi46-coder/LeetCodeSolvedProblems/tree/main/0069-sqrtx/) | Easy |
@@ -133,6 +134,7 @@
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0029-divide-two-integers](https://github.com/giripathi46-coder/LeetCodeSolvedProblems/tree/main/0029-divide-two-integers/) | Medium |
 | [0067-add-binary](https://github.com/giripathi46-coder/LeetCodeSolvedProblems/tree/main/0067-add-binary/) | Easy |
 | [0268-missing-number](https://github.com/giripathi46-coder/LeetCodeSolvedProblems/tree/main/0268-missing-number/) | Easy |
 ## Memoization
