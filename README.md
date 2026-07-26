@@ -38,6 +38,7 @@
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/giripathi46-coder/LeetCodeSolvedProblems/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/giripathi46-coder/LeetCodeSolvedProblems/tree/main/1512-number-of-good-pairs/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/giripathi46-coder/LeetCodeSolvedProblems/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/giripathi46-coder/LeetCodeSolvedProblems/tree/main/3432-count-partitions-with-even-sum-difference/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -92,6 +93,7 @@
 | [1512-number-of-good-pairs](https://github.com/giripathi46-coder/LeetCodeSolvedProblems/tree/main/1512-number-of-good-pairs/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/giripathi46-coder/LeetCodeSolvedProblems/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/giripathi46-coder/LeetCodeSolvedProblems/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/giripathi46-coder/LeetCodeSolvedProblems/tree/main/3432-count-partitions-with-even-sum-difference/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -149,6 +151,7 @@
 | ------- | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/giripathi46-coder/LeetCodeSolvedProblems/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/giripathi46-coder/LeetCodeSolvedProblems/tree/main/2574-left-and-right-sum-differences/) | Easy |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/giripathi46-coder/LeetCodeSolvedProblems/tree/main/3432-count-partitions-with-even-sum-difference/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
