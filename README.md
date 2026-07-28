@@ -70,6 +70,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/giripathi46-coder/LeetCodeSolvedProblems/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0058-length-of-last-word](https://github.com/giripathi46-coder/LeetCodeSolvedProblems/tree/main/0058-length-of-last-word/) | Easy |
 | [0067-add-binary](https://github.com/giripathi46-coder/LeetCodeSolvedProblems/tree/main/0067-add-binary/) | Easy |
+| [0392-is-subsequence](https://github.com/giripathi46-coder/LeetCodeSolvedProblems/tree/main/0392-is-subsequence/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -124,6 +125,7 @@
 | [0088-merge-sorted-array](https://github.com/giripathi46-coder/LeetCodeSolvedProblems/tree/main/0088-merge-sorted-array/) | Easy |
 | [0283-move-zeroes](https://github.com/giripathi46-coder/LeetCodeSolvedProblems/tree/main/0283-move-zeroes/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/giripathi46-coder/LeetCodeSolvedProblems/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0392-is-subsequence](https://github.com/giripathi46-coder/LeetCodeSolvedProblems/tree/main/0392-is-subsequence/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -131,6 +133,7 @@
 | [0010-regular-expression-matching](https://github.com/giripathi46-coder/LeetCodeSolvedProblems/tree/main/0010-regular-expression-matching/) | Hard |
 | [0070-climbing-stairs](https://github.com/giripathi46-coder/LeetCodeSolvedProblems/tree/main/0070-climbing-stairs/) | Easy |
 | [0198-house-robber](https://github.com/giripathi46-coder/LeetCodeSolvedProblems/tree/main/0198-house-robber/) | Medium |
+| [0392-is-subsequence](https://github.com/giripathi46-coder/LeetCodeSolvedProblems/tree/main/0392-is-subsequence/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
