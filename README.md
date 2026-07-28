@@ -87,6 +87,7 @@
 | [0088-merge-sorted-array](https://github.com/giripathi46-coder/LeetCodeSolvedProblems/tree/main/0088-merge-sorted-array/) | Easy |
 | [0136-single-number](https://github.com/giripathi46-coder/LeetCodeSolvedProblems/tree/main/0136-single-number/) | Easy |
 | [0198-house-robber](https://github.com/giripathi46-coder/LeetCodeSolvedProblems/tree/main/0198-house-robber/) | Medium |
+| [0260-single-number-iii](https://github.com/giripathi46-coder/LeetCodeSolvedProblems/tree/main/0260-single-number-iii/) | Medium |
 | [0268-missing-number](https://github.com/giripathi46-coder/LeetCodeSolvedProblems/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/giripathi46-coder/LeetCodeSolvedProblems/tree/main/0283-move-zeroes/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/giripathi46-coder/LeetCodeSolvedProblems/tree/main/0349-intersection-of-two-arrays/) | Easy |
@@ -148,6 +149,7 @@
 | [0067-add-binary](https://github.com/giripathi46-coder/LeetCodeSolvedProblems/tree/main/0067-add-binary/) | Easy |
 | [0136-single-number](https://github.com/giripathi46-coder/LeetCodeSolvedProblems/tree/main/0136-single-number/) | Easy |
 | [0231-power-of-two](https://github.com/giripathi46-coder/LeetCodeSolvedProblems/tree/main/0231-power-of-two/) | Easy |
+| [0260-single-number-iii](https://github.com/giripathi46-coder/LeetCodeSolvedProblems/tree/main/0260-single-number-iii/) | Medium |
 | [0268-missing-number](https://github.com/giripathi46-coder/LeetCodeSolvedProblems/tree/main/0268-missing-number/) | Easy |
 ## Memoization
 | Problem Name | Difficulty |
