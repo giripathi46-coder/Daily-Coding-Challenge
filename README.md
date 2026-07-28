@@ -37,6 +37,7 @@
 | [0268-missing-number](https://github.com/giripathi46-coder/LeetCodeSolvedProblems/tree/main/0268-missing-number/) | Easy |
 | [0507-perfect-number](https://github.com/giripathi46-coder/LeetCodeSolvedProblems/tree/main/0507-perfect-number/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/giripathi46-coder/LeetCodeSolvedProblems/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
+| [1323-maximum-69-number](https://github.com/giripathi46-coder/LeetCodeSolvedProblems/tree/main/1323-maximum-69-number/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/giripathi46-coder/LeetCodeSolvedProblems/tree/main/1512-number-of-good-pairs/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/giripathi46-coder/LeetCodeSolvedProblems/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/giripathi46-coder/LeetCodeSolvedProblems/tree/main/3432-count-partitions-with-even-sum-difference/) | Easy |
@@ -172,4 +173,5 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/giripathi46-coder/LeetCodeSolvedProblems/tree/main/0011-container-with-most-water/) | Medium |
+| [1323-maximum-69-number](https://github.com/giripathi46-coder/LeetCodeSolvedProblems/tree/main/1323-maximum-69-number/) | Easy |
 <!---LeetCode Topics End-->
