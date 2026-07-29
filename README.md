@@ -114,6 +114,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/giripathi46-coder/LeetCodeSolvedProblems/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+| [0190-reverse-bits](https://github.com/giripathi46-coder/LeetCodeSolvedProblems/tree/main/0190-reverse-bits/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -152,6 +153,7 @@
 | [0029-divide-two-integers](https://github.com/giripathi46-coder/LeetCodeSolvedProblems/tree/main/0029-divide-two-integers/) | Medium |
 | [0067-add-binary](https://github.com/giripathi46-coder/LeetCodeSolvedProblems/tree/main/0067-add-binary/) | Easy |
 | [0136-single-number](https://github.com/giripathi46-coder/LeetCodeSolvedProblems/tree/main/0136-single-number/) | Easy |
+| [0190-reverse-bits](https://github.com/giripathi46-coder/LeetCodeSolvedProblems/tree/main/0190-reverse-bits/) | Easy |
 | [0231-power-of-two](https://github.com/giripathi46-coder/LeetCodeSolvedProblems/tree/main/0231-power-of-two/) | Easy |
 | [0260-single-number-iii](https://github.com/giripathi46-coder/LeetCodeSolvedProblems/tree/main/0260-single-number-iii/) | Medium |
 | [0268-missing-number](https://github.com/giripathi46-coder/LeetCodeSolvedProblems/tree/main/0268-missing-number/) | Easy |
