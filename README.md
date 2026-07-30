@@ -41,6 +41,7 @@
 | [1512-number-of-good-pairs](https://github.com/giripathi46-coder/LeetCodeSolvedProblems/tree/main/1512-number-of-good-pairs/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/giripathi46-coder/LeetCodeSolvedProblems/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/giripathi46-coder/LeetCodeSolvedProblems/tree/main/3432-count-partitions-with-even-sum-difference/) | Easy |
+| [3783-mirror-distance-of-an-integer](https://github.com/giripathi46-coder/LeetCodeSolvedProblems/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
