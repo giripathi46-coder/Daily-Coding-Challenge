@@ -55,6 +55,7 @@
 | [0001-two-sum](https://github.com/giripathi46-coder/LeetCodeSolvedProblems/tree/main/0001-two-sum/) | Easy |
 | [0003-longest-substring-without-repeating-characters](https://github.com/giripathi46-coder/LeetCodeSolvedProblems/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0013-roman-to-integer](https://github.com/giripathi46-coder/LeetCodeSolvedProblems/tree/main/0013-roman-to-integer/) | Easy |
+| [0217-contains-duplicate](https://github.com/giripathi46-coder/LeetCodeSolvedProblems/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/giripathi46-coder/LeetCodeSolvedProblems/tree/main/0268-missing-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/giripathi46-coder/LeetCodeSolvedProblems/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/giripathi46-coder/LeetCodeSolvedProblems/tree/main/1512-number-of-good-pairs/) | Easy |
@@ -90,6 +91,7 @@
 | [0088-merge-sorted-array](https://github.com/giripathi46-coder/LeetCodeSolvedProblems/tree/main/0088-merge-sorted-array/) | Easy |
 | [0136-single-number](https://github.com/giripathi46-coder/LeetCodeSolvedProblems/tree/main/0136-single-number/) | Easy |
 | [0198-house-robber](https://github.com/giripathi46-coder/LeetCodeSolvedProblems/tree/main/0198-house-robber/) | Medium |
+| [0217-contains-duplicate](https://github.com/giripathi46-coder/LeetCodeSolvedProblems/tree/main/0217-contains-duplicate/) | Easy |
 | [0260-single-number-iii](https://github.com/giripathi46-coder/LeetCodeSolvedProblems/tree/main/0260-single-number-iii/) | Medium |
 | [0268-missing-number](https://github.com/giripathi46-coder/LeetCodeSolvedProblems/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/giripathi46-coder/LeetCodeSolvedProblems/tree/main/0283-move-zeroes/) | Easy |
@@ -175,6 +177,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0088-merge-sorted-array](https://github.com/giripathi46-coder/LeetCodeSolvedProblems/tree/main/0088-merge-sorted-array/) | Easy |
+| [0217-contains-duplicate](https://github.com/giripathi46-coder/LeetCodeSolvedProblems/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/giripathi46-coder/LeetCodeSolvedProblems/tree/main/0268-missing-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/giripathi46-coder/LeetCodeSolvedProblems/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0414-third-maximum-number](https://github.com/giripathi46-coder/LeetCodeSolvedProblems/tree/main/0414-third-maximum-number/) | Easy |
