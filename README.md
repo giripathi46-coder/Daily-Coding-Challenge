@@ -76,6 +76,7 @@
 | [0058-length-of-last-word](https://github.com/giripathi46-coder/LeetCodeSolvedProblems/tree/main/0058-length-of-last-word/) | Easy |
 | [0067-add-binary](https://github.com/giripathi46-coder/LeetCodeSolvedProblems/tree/main/0067-add-binary/) | Easy |
 | [0392-is-subsequence](https://github.com/giripathi46-coder/LeetCodeSolvedProblems/tree/main/0392-is-subsequence/) | Easy |
+| [0709-to-lower-case](https://github.com/giripathi46-coder/LeetCodeSolvedProblems/tree/main/0709-to-lower-case/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
