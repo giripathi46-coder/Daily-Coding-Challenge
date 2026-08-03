@@ -92,6 +92,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/giripathi46-coder/LeetCodeSolvedProblems/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/giripathi46-coder/LeetCodeSolvedProblems/tree/main/0027-remove-element/) | Easy |
 | [0035-search-insert-position](https://github.com/giripathi46-coder/LeetCodeSolvedProblems/tree/main/0035-search-insert-position/) | Easy |
+| [0053-maximum-subarray](https://github.com/giripathi46-coder/LeetCodeSolvedProblems/tree/main/0053-maximum-subarray/) | Medium |
 | [0066-plus-one](https://github.com/giripathi46-coder/LeetCodeSolvedProblems/tree/main/0066-plus-one/) | Easy |
 | [0088-merge-sorted-array](https://github.com/giripathi46-coder/LeetCodeSolvedProblems/tree/main/0088-merge-sorted-array/) | Easy |
 | [0136-single-number](https://github.com/giripathi46-coder/LeetCodeSolvedProblems/tree/main/0136-single-number/) | Easy |
@@ -126,6 +127,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/giripathi46-coder/LeetCodeSolvedProblems/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+| [0053-maximum-subarray](https://github.com/giripathi46-coder/LeetCodeSolvedProblems/tree/main/0053-maximum-subarray/) | Medium |
 | [0190-reverse-bits](https://github.com/giripathi46-coder/LeetCodeSolvedProblems/tree/main/0190-reverse-bits/) | Easy |
 | [0191-number-of-1-bits](https://github.com/giripathi46-coder/LeetCodeSolvedProblems/tree/main/0191-number-of-1-bits/) | Easy |
 ## Two Pointers
@@ -146,6 +148,7 @@
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/giripathi46-coder/LeetCodeSolvedProblems/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0010-regular-expression-matching](https://github.com/giripathi46-coder/LeetCodeSolvedProblems/tree/main/0010-regular-expression-matching/) | Hard |
+| [0053-maximum-subarray](https://github.com/giripathi46-coder/LeetCodeSolvedProblems/tree/main/0053-maximum-subarray/) | Medium |
 | [0070-climbing-stairs](https://github.com/giripathi46-coder/LeetCodeSolvedProblems/tree/main/0070-climbing-stairs/) | Easy |
 | [0198-house-robber](https://github.com/giripathi46-coder/LeetCodeSolvedProblems/tree/main/0198-house-robber/) | Medium |
 | [0392-is-subsequence](https://github.com/giripathi46-coder/LeetCodeSolvedProblems/tree/main/0392-is-subsequence/) | Easy |
