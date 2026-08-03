@@ -95,6 +95,7 @@
 | [0053-maximum-subarray](https://github.com/giripathi46-coder/LeetCodeSolvedProblems/tree/main/0053-maximum-subarray/) | Medium |
 | [0066-plus-one](https://github.com/giripathi46-coder/LeetCodeSolvedProblems/tree/main/0066-plus-one/) | Easy |
 | [0088-merge-sorted-array](https://github.com/giripathi46-coder/LeetCodeSolvedProblems/tree/main/0088-merge-sorted-array/) | Easy |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/giripathi46-coder/LeetCodeSolvedProblems/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0136-single-number](https://github.com/giripathi46-coder/LeetCodeSolvedProblems/tree/main/0136-single-number/) | Easy |
 | [0198-house-robber](https://github.com/giripathi46-coder/LeetCodeSolvedProblems/tree/main/0198-house-robber/) | Medium |
 | [0217-contains-duplicate](https://github.com/giripathi46-coder/LeetCodeSolvedProblems/tree/main/0217-contains-duplicate/) | Easy |
@@ -150,6 +151,7 @@
 | [0010-regular-expression-matching](https://github.com/giripathi46-coder/LeetCodeSolvedProblems/tree/main/0010-regular-expression-matching/) | Hard |
 | [0053-maximum-subarray](https://github.com/giripathi46-coder/LeetCodeSolvedProblems/tree/main/0053-maximum-subarray/) | Medium |
 | [0070-climbing-stairs](https://github.com/giripathi46-coder/LeetCodeSolvedProblems/tree/main/0070-climbing-stairs/) | Easy |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/giripathi46-coder/LeetCodeSolvedProblems/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0198-house-robber](https://github.com/giripathi46-coder/LeetCodeSolvedProblems/tree/main/0198-house-robber/) | Medium |
 | [0392-is-subsequence](https://github.com/giripathi46-coder/LeetCodeSolvedProblems/tree/main/0392-is-subsequence/) | Easy |
 ## Trie
