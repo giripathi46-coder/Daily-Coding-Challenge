@@ -103,6 +103,7 @@
 | [0198-house-robber](https://github.com/giripathi46-coder/LeetCodeSolvedProblems/tree/main/0198-house-robber/) | Medium |
 | [0217-contains-duplicate](https://github.com/giripathi46-coder/LeetCodeSolvedProblems/tree/main/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/giripathi46-coder/LeetCodeSolvedProblems/tree/main/0219-contains-duplicate-ii/) | Easy |
+| [0228-summary-ranges](https://github.com/giripathi46-coder/LeetCodeSolvedProblems/tree/main/0228-summary-ranges/) | Easy |
 | [0260-single-number-iii](https://github.com/giripathi46-coder/LeetCodeSolvedProblems/tree/main/0260-single-number-iii/) | Medium |
 | [0268-missing-number](https://github.com/giripathi46-coder/LeetCodeSolvedProblems/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/giripathi46-coder/LeetCodeSolvedProblems/tree/main/0283-move-zeroes/) | Easy |
