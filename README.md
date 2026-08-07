@@ -5,6 +5,7 @@
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0303-range-sum-query-immutable](https://github.com/giripathi46-coder/LeetCodeSolvedProblems/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [1603-design-parking-system](https://github.com/giripathi46-coder/LeetCodeSolvedProblems/tree/main/1603-design-parking-system/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
@@ -108,6 +109,7 @@
 | [0260-single-number-iii](https://github.com/giripathi46-coder/LeetCodeSolvedProblems/tree/main/0260-single-number-iii/) | Medium |
 | [0268-missing-number](https://github.com/giripathi46-coder/LeetCodeSolvedProblems/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/giripathi46-coder/LeetCodeSolvedProblems/tree/main/0283-move-zeroes/) | Easy |
+| [0303-range-sum-query-immutable](https://github.com/giripathi46-coder/LeetCodeSolvedProblems/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/giripathi46-coder/LeetCodeSolvedProblems/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0414-third-maximum-number](https://github.com/giripathi46-coder/LeetCodeSolvedProblems/tree/main/0414-third-maximum-number/) | Easy |
 | [0575-distribute-candies](https://github.com/giripathi46-coder/LeetCodeSolvedProblems/tree/main/0575-distribute-candies/) | Easy |
@@ -194,6 +196,7 @@
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0303-range-sum-query-immutable](https://github.com/giripathi46-coder/LeetCodeSolvedProblems/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/giripathi46-coder/LeetCodeSolvedProblems/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/giripathi46-coder/LeetCodeSolvedProblems/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/giripathi46-coder/LeetCodeSolvedProblems/tree/main/3432-count-partitions-with-even-sum-difference/) | Easy |
