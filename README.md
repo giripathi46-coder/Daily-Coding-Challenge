@@ -218,4 +218,16 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/giripathi46-coder/LeetCodeSolvedProblems/tree/main/0141-linked-list-cycle/) | Easy |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0971-flip-binary-tree-to-match-preorder-traversal](https://github.com/giripathi46-coder/LeetCodeSolvedProblems/tree/main/0971-flip-binary-tree-to-match-preorder-traversal/) | Medium |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0971-flip-binary-tree-to-match-preorder-traversal](https://github.com/giripathi46-coder/LeetCodeSolvedProblems/tree/main/0971-flip-binary-tree-to-match-preorder-traversal/) | Medium |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0971-flip-binary-tree-to-match-preorder-traversal](https://github.com/giripathi46-coder/LeetCodeSolvedProblems/tree/main/0971-flip-binary-tree-to-match-preorder-traversal/) | Medium |
 <!---LeetCode Topics End-->
