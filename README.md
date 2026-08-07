@@ -38,6 +38,7 @@
 | [0268-missing-number](https://github.com/giripathi46-coder/LeetCodeSolvedProblems/tree/main/0268-missing-number/) | Easy |
 | [0507-perfect-number](https://github.com/giripathi46-coder/LeetCodeSolvedProblems/tree/main/0507-perfect-number/) | Easy |
 | [0976-largest-perimeter-triangle](https://github.com/giripathi46-coder/LeetCodeSolvedProblems/tree/main/0976-largest-perimeter-triangle/) | Easy |
+| [1137-n-th-tribonacci-number](https://github.com/giripathi46-coder/LeetCodeSolvedProblems/tree/main/1137-n-th-tribonacci-number/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/giripathi46-coder/LeetCodeSolvedProblems/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1323-maximum-69-number](https://github.com/giripathi46-coder/LeetCodeSolvedProblems/tree/main/1323-maximum-69-number/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/giripathi46-coder/LeetCodeSolvedProblems/tree/main/1512-number-of-good-pairs/) | Easy |
@@ -160,6 +161,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/giripathi46-coder/LeetCodeSolvedProblems/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0198-house-robber](https://github.com/giripathi46-coder/LeetCodeSolvedProblems/tree/main/0198-house-robber/) | Medium |
 | [0392-is-subsequence](https://github.com/giripathi46-coder/LeetCodeSolvedProblems/tree/main/0392-is-subsequence/) | Easy |
+| [1137-n-th-tribonacci-number](https://github.com/giripathi46-coder/LeetCodeSolvedProblems/tree/main/1137-n-th-tribonacci-number/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -188,6 +190,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/giripathi46-coder/LeetCodeSolvedProblems/tree/main/0070-climbing-stairs/) | Easy |
+| [1137-n-th-tribonacci-number](https://github.com/giripathi46-coder/LeetCodeSolvedProblems/tree/main/1137-n-th-tribonacci-number/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
