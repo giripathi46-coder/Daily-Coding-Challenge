@@ -32,6 +32,7 @@
 | [0009-palindrome-number](https://github.com/giripathi46-coder/LeetCodeSolvedProblems/tree/main/0009-palindrome-number/) | Easy |
 | [0013-roman-to-integer](https://github.com/giripathi46-coder/LeetCodeSolvedProblems/tree/main/0013-roman-to-integer/) | Easy |
 | [0029-divide-two-integers](https://github.com/giripathi46-coder/LeetCodeSolvedProblems/tree/main/0029-divide-two-integers/) | Medium |
+| [0062-unique-paths](https://github.com/giripathi46-coder/LeetCodeSolvedProblems/tree/main/0062-unique-paths/) | Medium |
 | [0066-plus-one](https://github.com/giripathi46-coder/LeetCodeSolvedProblems/tree/main/0066-plus-one/) | Easy |
 | [0067-add-binary](https://github.com/giripathi46-coder/LeetCodeSolvedProblems/tree/main/0067-add-binary/) | Easy |
 | [0069-sqrtx](https://github.com/giripathi46-coder/LeetCodeSolvedProblems/tree/main/0069-sqrtx/) | Easy |
@@ -162,6 +163,7 @@
 | [0005-longest-palindromic-substring](https://github.com/giripathi46-coder/LeetCodeSolvedProblems/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0010-regular-expression-matching](https://github.com/giripathi46-coder/LeetCodeSolvedProblems/tree/main/0010-regular-expression-matching/) | Hard |
 | [0053-maximum-subarray](https://github.com/giripathi46-coder/LeetCodeSolvedProblems/tree/main/0053-maximum-subarray/) | Medium |
+| [0062-unique-paths](https://github.com/giripathi46-coder/LeetCodeSolvedProblems/tree/main/0062-unique-paths/) | Medium |
 | [0070-climbing-stairs](https://github.com/giripathi46-coder/LeetCodeSolvedProblems/tree/main/0070-climbing-stairs/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/giripathi46-coder/LeetCodeSolvedProblems/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0198-house-robber](https://github.com/giripathi46-coder/LeetCodeSolvedProblems/tree/main/0198-house-robber/) | Medium |
@@ -245,4 +247,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0056-merge-intervals](https://github.com/giripathi46-coder/LeetCodeSolvedProblems/tree/main/0056-merge-intervals/) | Medium |
+## Combinatorics
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0062-unique-paths](https://github.com/giripathi46-coder/LeetCodeSolvedProblems/tree/main/0062-unique-paths/) | Medium |
 <!---LeetCode Topics End-->
