@@ -37,6 +37,7 @@
 | [0067-add-binary](https://github.com/giripathi46-coder/LeetCodeSolvedProblems/tree/main/0067-add-binary/) | Easy |
 | [0069-sqrtx](https://github.com/giripathi46-coder/LeetCodeSolvedProblems/tree/main/0069-sqrtx/) | Easy |
 | [0070-climbing-stairs](https://github.com/giripathi46-coder/LeetCodeSolvedProblems/tree/main/0070-climbing-stairs/) | Easy |
+| [0089-gray-code](https://github.com/giripathi46-coder/LeetCodeSolvedProblems/tree/main/0089-gray-code/) | Medium |
 | [0231-power-of-two](https://github.com/giripathi46-coder/LeetCodeSolvedProblems/tree/main/0231-power-of-two/) | Easy |
 | [0268-missing-number](https://github.com/giripathi46-coder/LeetCodeSolvedProblems/tree/main/0268-missing-number/) | Easy |
 | [0507-perfect-number](https://github.com/giripathi46-coder/LeetCodeSolvedProblems/tree/main/0507-perfect-number/) | Easy |
@@ -186,6 +187,7 @@
 | ------- | ------- |
 | [0029-divide-two-integers](https://github.com/giripathi46-coder/LeetCodeSolvedProblems/tree/main/0029-divide-two-integers/) | Medium |
 | [0067-add-binary](https://github.com/giripathi46-coder/LeetCodeSolvedProblems/tree/main/0067-add-binary/) | Easy |
+| [0089-gray-code](https://github.com/giripathi46-coder/LeetCodeSolvedProblems/tree/main/0089-gray-code/) | Medium |
 | [0136-single-number](https://github.com/giripathi46-coder/LeetCodeSolvedProblems/tree/main/0136-single-number/) | Easy |
 | [0190-reverse-bits](https://github.com/giripathi46-coder/LeetCodeSolvedProblems/tree/main/0190-reverse-bits/) | Easy |
 | [0191-number-of-1-bits](https://github.com/giripathi46-coder/LeetCodeSolvedProblems/tree/main/0191-number-of-1-bits/) | Easy |
@@ -251,4 +253,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0062-unique-paths](https://github.com/giripathi46-coder/LeetCodeSolvedProblems/tree/main/0062-unique-paths/) | Medium |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0089-gray-code](https://github.com/giripathi46-coder/LeetCodeSolvedProblems/tree/main/0089-gray-code/) | Medium |
 <!---LeetCode Topics End-->
