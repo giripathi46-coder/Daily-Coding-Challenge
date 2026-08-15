@@ -10,6 +10,7 @@
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0054-spiral-matrix](https://github.com/giripathi46-coder/LeetCodeSolvedProblems/tree/main/0054-spiral-matrix/) | Medium |
 | [0067-add-binary](https://github.com/giripathi46-coder/LeetCodeSolvedProblems/tree/main/0067-add-binary/) | Easy |
 | [1603-design-parking-system](https://github.com/giripathi46-coder/LeetCodeSolvedProblems/tree/main/1603-design-parking-system/) | Easy |
 ## Counting
@@ -98,6 +99,7 @@
 | [0027-remove-element](https://github.com/giripathi46-coder/LeetCodeSolvedProblems/tree/main/0027-remove-element/) | Easy |
 | [0035-search-insert-position](https://github.com/giripathi46-coder/LeetCodeSolvedProblems/tree/main/0035-search-insert-position/) | Easy |
 | [0053-maximum-subarray](https://github.com/giripathi46-coder/LeetCodeSolvedProblems/tree/main/0053-maximum-subarray/) | Medium |
+| [0054-spiral-matrix](https://github.com/giripathi46-coder/LeetCodeSolvedProblems/tree/main/0054-spiral-matrix/) | Medium |
 | [0066-plus-one](https://github.com/giripathi46-coder/LeetCodeSolvedProblems/tree/main/0066-plus-one/) | Easy |
 | [0088-merge-sorted-array](https://github.com/giripathi46-coder/LeetCodeSolvedProblems/tree/main/0088-merge-sorted-array/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/giripathi46-coder/LeetCodeSolvedProblems/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
@@ -233,4 +235,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0971-flip-binary-tree-to-match-preorder-traversal](https://github.com/giripathi46-coder/LeetCodeSolvedProblems/tree/main/0971-flip-binary-tree-to-match-preorder-traversal/) | Medium |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0054-spiral-matrix](https://github.com/giripathi46-coder/LeetCodeSolvedProblems/tree/main/0054-spiral-matrix/) | Medium |
 <!---LeetCode Topics End-->
