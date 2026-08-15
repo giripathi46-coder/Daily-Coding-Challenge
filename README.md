@@ -100,6 +100,7 @@
 | [0035-search-insert-position](https://github.com/giripathi46-coder/LeetCodeSolvedProblems/tree/main/0035-search-insert-position/) | Easy |
 | [0053-maximum-subarray](https://github.com/giripathi46-coder/LeetCodeSolvedProblems/tree/main/0053-maximum-subarray/) | Medium |
 | [0054-spiral-matrix](https://github.com/giripathi46-coder/LeetCodeSolvedProblems/tree/main/0054-spiral-matrix/) | Medium |
+| [0056-merge-intervals](https://github.com/giripathi46-coder/LeetCodeSolvedProblems/tree/main/0056-merge-intervals/) | Medium |
 | [0066-plus-one](https://github.com/giripathi46-coder/LeetCodeSolvedProblems/tree/main/0066-plus-one/) | Easy |
 | [0088-merge-sorted-array](https://github.com/giripathi46-coder/LeetCodeSolvedProblems/tree/main/0088-merge-sorted-array/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/giripathi46-coder/LeetCodeSolvedProblems/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
@@ -205,6 +206,7 @@
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0056-merge-intervals](https://github.com/giripathi46-coder/LeetCodeSolvedProblems/tree/main/0056-merge-intervals/) | Medium |
 | [0088-merge-sorted-array](https://github.com/giripathi46-coder/LeetCodeSolvedProblems/tree/main/0088-merge-sorted-array/) | Easy |
 | [0217-contains-duplicate](https://github.com/giripathi46-coder/LeetCodeSolvedProblems/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/giripathi46-coder/LeetCodeSolvedProblems/tree/main/0268-missing-number/) | Easy |
@@ -239,4 +241,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0054-spiral-matrix](https://github.com/giripathi46-coder/LeetCodeSolvedProblems/tree/main/0054-spiral-matrix/) | Medium |
+## Quicksort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0056-merge-intervals](https://github.com/giripathi46-coder/LeetCodeSolvedProblems/tree/main/0056-merge-intervals/) | Medium |
 <!---LeetCode Topics End-->
