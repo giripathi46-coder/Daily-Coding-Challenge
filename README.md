@@ -107,6 +107,7 @@
 | [0088-merge-sorted-array](https://github.com/giripathi46-coder/LeetCodeSolvedProblems/tree/main/0088-merge-sorted-array/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/giripathi46-coder/LeetCodeSolvedProblems/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0136-single-number](https://github.com/giripathi46-coder/LeetCodeSolvedProblems/tree/main/0136-single-number/) | Easy |
+| [0152-maximum-product-subarray](https://github.com/giripathi46-coder/LeetCodeSolvedProblems/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0198-house-robber](https://github.com/giripathi46-coder/LeetCodeSolvedProblems/tree/main/0198-house-robber/) | Medium |
 | [0217-contains-duplicate](https://github.com/giripathi46-coder/LeetCodeSolvedProblems/tree/main/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/giripathi46-coder/LeetCodeSolvedProblems/tree/main/0219-contains-duplicate-ii/) | Easy |
@@ -167,6 +168,7 @@
 | [0062-unique-paths](https://github.com/giripathi46-coder/LeetCodeSolvedProblems/tree/main/0062-unique-paths/) | Medium |
 | [0070-climbing-stairs](https://github.com/giripathi46-coder/LeetCodeSolvedProblems/tree/main/0070-climbing-stairs/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/giripathi46-coder/LeetCodeSolvedProblems/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0152-maximum-product-subarray](https://github.com/giripathi46-coder/LeetCodeSolvedProblems/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0198-house-robber](https://github.com/giripathi46-coder/LeetCodeSolvedProblems/tree/main/0198-house-robber/) | Medium |
 | [0392-is-subsequence](https://github.com/giripathi46-coder/LeetCodeSolvedProblems/tree/main/0392-is-subsequence/) | Easy |
 | [1137-n-th-tribonacci-number](https://github.com/giripathi46-coder/LeetCodeSolvedProblems/tree/main/1137-n-th-tribonacci-number/) | Easy |
