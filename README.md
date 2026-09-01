@@ -41,6 +41,7 @@
 | [0231-power-of-two](https://github.com/giripathi46-coder/LeetCodeSolvedProblems/tree/main/0231-power-of-two/) | Easy |
 | [0268-missing-number](https://github.com/giripathi46-coder/LeetCodeSolvedProblems/tree/main/0268-missing-number/) | Easy |
 | [0292-nim-game](https://github.com/giripathi46-coder/LeetCodeSolvedProblems/tree/main/0292-nim-game/) | Easy |
+| [0342-power-of-four](https://github.com/giripathi46-coder/LeetCodeSolvedProblems/tree/main/0342-power-of-four/) | Easy |
 | [0507-perfect-number](https://github.com/giripathi46-coder/LeetCodeSolvedProblems/tree/main/0507-perfect-number/) | Easy |
 | [0976-largest-perimeter-triangle](https://github.com/giripathi46-coder/LeetCodeSolvedProblems/tree/main/0976-largest-perimeter-triangle/) | Easy |
 | [1137-n-th-tribonacci-number](https://github.com/giripathi46-coder/LeetCodeSolvedProblems/tree/main/1137-n-th-tribonacci-number/) | Easy |
@@ -57,6 +58,7 @@
 | [0010-regular-expression-matching](https://github.com/giripathi46-coder/LeetCodeSolvedProblems/tree/main/0010-regular-expression-matching/) | Hard |
 | [0021-merge-two-sorted-lists](https://github.com/giripathi46-coder/LeetCodeSolvedProblems/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0231-power-of-two](https://github.com/giripathi46-coder/LeetCodeSolvedProblems/tree/main/0231-power-of-two/) | Easy |
+| [0342-power-of-four](https://github.com/giripathi46-coder/LeetCodeSolvedProblems/tree/main/0342-power-of-four/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -200,6 +202,7 @@
 | [0231-power-of-two](https://github.com/giripathi46-coder/LeetCodeSolvedProblems/tree/main/0231-power-of-two/) | Easy |
 | [0260-single-number-iii](https://github.com/giripathi46-coder/LeetCodeSolvedProblems/tree/main/0260-single-number-iii/) | Medium |
 | [0268-missing-number](https://github.com/giripathi46-coder/LeetCodeSolvedProblems/tree/main/0268-missing-number/) | Easy |
+| [0342-power-of-four](https://github.com/giripathi46-coder/LeetCodeSolvedProblems/tree/main/0342-power-of-four/) | Easy |
 | [1009-complement-of-base-10-integer](https://github.com/giripathi46-coder/LeetCodeSolvedProblems/tree/main/1009-complement-of-base-10-integer/) | Easy |
 ## Memoization
 | Problem Name | Difficulty |
