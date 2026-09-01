@@ -40,6 +40,7 @@
 | [0089-gray-code](https://github.com/giripathi46-coder/LeetCodeSolvedProblems/tree/main/0089-gray-code/) | Medium |
 | [0231-power-of-two](https://github.com/giripathi46-coder/LeetCodeSolvedProblems/tree/main/0231-power-of-two/) | Easy |
 | [0268-missing-number](https://github.com/giripathi46-coder/LeetCodeSolvedProblems/tree/main/0268-missing-number/) | Easy |
+| [0292-nim-game](https://github.com/giripathi46-coder/LeetCodeSolvedProblems/tree/main/0292-nim-game/) | Easy |
 | [0507-perfect-number](https://github.com/giripathi46-coder/LeetCodeSolvedProblems/tree/main/0507-perfect-number/) | Easy |
 | [0976-largest-perimeter-triangle](https://github.com/giripathi46-coder/LeetCodeSolvedProblems/tree/main/0976-largest-perimeter-triangle/) | Easy |
 | [1137-n-th-tribonacci-number](https://github.com/giripathi46-coder/LeetCodeSolvedProblems/tree/main/1137-n-th-tribonacci-number/) | Easy |
@@ -266,4 +267,24 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/giripathi46-coder/LeetCodeSolvedProblems/tree/main/0300-longest-increasing-subsequence/) | Medium |
+## Brainteaser
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0292-nim-game](https://github.com/giripathi46-coder/LeetCodeSolvedProblems/tree/main/0292-nim-game/) | Easy |
+## Minimax
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0292-nim-game](https://github.com/giripathi46-coder/LeetCodeSolvedProblems/tree/main/0292-nim-game/) | Easy |
+## Game Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0292-nim-game](https://github.com/giripathi46-coder/LeetCodeSolvedProblems/tree/main/0292-nim-game/) | Easy |
+## Nim Game
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0292-nim-game](https://github.com/giripathi46-coder/LeetCodeSolvedProblems/tree/main/0292-nim-game/) | Easy |
+## Impartial Game
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0292-nim-game](https://github.com/giripathi46-coder/LeetCodeSolvedProblems/tree/main/0292-nim-game/) | Easy |
 <!---LeetCode Topics End-->
