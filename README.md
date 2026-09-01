@@ -89,6 +89,7 @@
 | [0392-is-subsequence](https://github.com/giripathi46-coder/LeetCodeSolvedProblems/tree/main/0392-is-subsequence/) | Easy |
 | [0680-valid-palindrome-ii](https://github.com/giripathi46-coder/LeetCodeSolvedProblems/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0709-to-lower-case](https://github.com/giripathi46-coder/LeetCodeSolvedProblems/tree/main/0709-to-lower-case/) | Easy |
+| [1108-defanging-an-ip-address](https://github.com/giripathi46-coder/LeetCodeSolvedProblems/tree/main/1108-defanging-an-ip-address/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
