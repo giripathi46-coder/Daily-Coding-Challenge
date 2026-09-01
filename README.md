@@ -43,6 +43,7 @@
 | [0292-nim-game](https://github.com/giripathi46-coder/LeetCodeSolvedProblems/tree/main/0292-nim-game/) | Easy |
 | [0342-power-of-four](https://github.com/giripathi46-coder/LeetCodeSolvedProblems/tree/main/0342-power-of-four/) | Easy |
 | [0507-perfect-number](https://github.com/giripathi46-coder/LeetCodeSolvedProblems/tree/main/0507-perfect-number/) | Easy |
+| [0728-self-dividing-numbers](https://github.com/giripathi46-coder/LeetCodeSolvedProblems/tree/main/0728-self-dividing-numbers/) | Easy |
 | [0976-largest-perimeter-triangle](https://github.com/giripathi46-coder/LeetCodeSolvedProblems/tree/main/0976-largest-perimeter-triangle/) | Easy |
 | [1137-n-th-tribonacci-number](https://github.com/giripathi46-coder/LeetCodeSolvedProblems/tree/main/1137-n-th-tribonacci-number/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/giripathi46-coder/LeetCodeSolvedProblems/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
