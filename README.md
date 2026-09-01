@@ -208,6 +208,7 @@
 | [0260-single-number-iii](https://github.com/giripathi46-coder/LeetCodeSolvedProblems/tree/main/0260-single-number-iii/) | Medium |
 | [0268-missing-number](https://github.com/giripathi46-coder/LeetCodeSolvedProblems/tree/main/0268-missing-number/) | Easy |
 | [0342-power-of-four](https://github.com/giripathi46-coder/LeetCodeSolvedProblems/tree/main/0342-power-of-four/) | Easy |
+| [0401-binary-watch](https://github.com/giripathi46-coder/LeetCodeSolvedProblems/tree/main/0401-binary-watch/) | Easy |
 | [0693-binary-number-with-alternating-bits](https://github.com/giripathi46-coder/LeetCodeSolvedProblems/tree/main/0693-binary-number-with-alternating-bits/) | Easy |
 | [1009-complement-of-base-10-integer](https://github.com/giripathi46-coder/LeetCodeSolvedProblems/tree/main/1009-complement-of-base-10-integer/) | Easy |
 ## Memoization
@@ -272,6 +273,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0089-gray-code](https://github.com/giripathi46-coder/LeetCodeSolvedProblems/tree/main/0089-gray-code/) | Medium |
+| [0401-binary-watch](https://github.com/giripathi46-coder/LeetCodeSolvedProblems/tree/main/0401-binary-watch/) | Easy |
 ## Longest Increasing Subsequence
 | Problem Name | Difficulty |
 | ------- | ------- |
