@@ -42,6 +42,7 @@
 | [0231-power-of-two](https://github.com/giripathi46-coder/LeetCodeSolvedProblems/tree/main/0231-power-of-two/) | Easy |
 | [0268-missing-number](https://github.com/giripathi46-coder/LeetCodeSolvedProblems/tree/main/0268-missing-number/) | Easy |
 | [0292-nim-game](https://github.com/giripathi46-coder/LeetCodeSolvedProblems/tree/main/0292-nim-game/) | Easy |
+| [0319-bulb-switcher](https://github.com/giripathi46-coder/LeetCodeSolvedProblems/tree/main/0319-bulb-switcher/) | Medium |
 | [0342-power-of-four](https://github.com/giripathi46-coder/LeetCodeSolvedProblems/tree/main/0342-power-of-four/) | Easy |
 | [0507-perfect-number](https://github.com/giripathi46-coder/LeetCodeSolvedProblems/tree/main/0507-perfect-number/) | Easy |
 | [0728-self-dividing-numbers](https://github.com/giripathi46-coder/LeetCodeSolvedProblems/tree/main/0728-self-dividing-numbers/) | Easy |
@@ -287,6 +288,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0292-nim-game](https://github.com/giripathi46-coder/LeetCodeSolvedProblems/tree/main/0292-nim-game/) | Easy |
+| [0319-bulb-switcher](https://github.com/giripathi46-coder/LeetCodeSolvedProblems/tree/main/0319-bulb-switcher/) | Medium |
 ## Minimax
 | Problem Name | Difficulty |
 | ------- | ------- |
