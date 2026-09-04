@@ -253,14 +253,17 @@
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0617-merge-two-binary-trees](https://github.com/giripathi46-coder/LeetCodeSolvedProblems/tree/main/0617-merge-two-binary-trees/) | Easy |
 | [0971-flip-binary-tree-to-match-preorder-traversal](https://github.com/giripathi46-coder/LeetCodeSolvedProblems/tree/main/0971-flip-binary-tree-to-match-preorder-traversal/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0617-merge-two-binary-trees](https://github.com/giripathi46-coder/LeetCodeSolvedProblems/tree/main/0617-merge-two-binary-trees/) | Easy |
 | [0971-flip-binary-tree-to-match-preorder-traversal](https://github.com/giripathi46-coder/LeetCodeSolvedProblems/tree/main/0971-flip-binary-tree-to-match-preorder-traversal/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0617-merge-two-binary-trees](https://github.com/giripathi46-coder/LeetCodeSolvedProblems/tree/main/0617-merge-two-binary-trees/) | Easy |
 | [0971-flip-binary-tree-to-match-preorder-traversal](https://github.com/giripathi46-coder/LeetCodeSolvedProblems/tree/main/0971-flip-binary-tree-to-match-preorder-traversal/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
@@ -305,4 +308,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0292-nim-game](https://github.com/giripathi46-coder/LeetCodeSolvedProblems/tree/main/0292-nim-game/) | Easy |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0617-merge-two-binary-trees](https://github.com/giripathi46-coder/LeetCodeSolvedProblems/tree/main/0617-merge-two-binary-trees/) | Easy |
 <!---LeetCode Topics End-->
