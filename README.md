@@ -62,6 +62,7 @@
 | [0021-merge-two-sorted-lists](https://github.com/giripathi46-coder/LeetCodeSolvedProblems/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0231-power-of-two](https://github.com/giripathi46-coder/LeetCodeSolvedProblems/tree/main/0231-power-of-two/) | Easy |
 | [0342-power-of-four](https://github.com/giripathi46-coder/LeetCodeSolvedProblems/tree/main/0342-power-of-four/) | Easy |
+| [3483-unique-3-digit-even-numbers](https://github.com/giripathi46-coder/LeetCodeSolvedProblems/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -75,6 +76,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/giripathi46-coder/LeetCodeSolvedProblems/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0575-distribute-candies](https://github.com/giripathi46-coder/LeetCodeSolvedProblems/tree/main/0575-distribute-candies/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/giripathi46-coder/LeetCodeSolvedProblems/tree/main/1512-number-of-good-pairs/) | Easy |
+| [3483-unique-3-digit-even-numbers](https://github.com/giripathi46-coder/LeetCodeSolvedProblems/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -139,6 +141,7 @@
 | [2574-left-and-right-sum-differences](https://github.com/giripathi46-coder/LeetCodeSolvedProblems/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/giripathi46-coder/LeetCodeSolvedProblems/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/giripathi46-coder/LeetCodeSolvedProblems/tree/main/3432-count-partitions-with-even-sum-difference/) | Easy |
+| [3483-unique-3-digit-even-numbers](https://github.com/giripathi46-coder/LeetCodeSolvedProblems/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -312,4 +315,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0617-merge-two-binary-trees](https://github.com/giripathi46-coder/LeetCodeSolvedProblems/tree/main/0617-merge-two-binary-trees/) | Easy |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/giripathi46-coder/LeetCodeSolvedProblems/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 <!---LeetCode Topics End-->
