@@ -62,6 +62,7 @@
 | [0021-merge-two-sorted-lists](https://github.com/giripathi46-coder/LeetCodeSolvedProblems/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0231-power-of-two](https://github.com/giripathi46-coder/LeetCodeSolvedProblems/tree/main/0231-power-of-two/) | Easy |
 | [0342-power-of-four](https://github.com/giripathi46-coder/LeetCodeSolvedProblems/tree/main/0342-power-of-four/) | Easy |
+| [0394-decode-string](https://github.com/giripathi46-coder/LeetCodeSolvedProblems/tree/main/0394-decode-string/) | Medium |
 | [3483-unique-3-digit-even-numbers](https://github.com/giripathi46-coder/LeetCodeSolvedProblems/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -91,6 +92,7 @@
 | [0058-length-of-last-word](https://github.com/giripathi46-coder/LeetCodeSolvedProblems/tree/main/0058-length-of-last-word/) | Easy |
 | [0067-add-binary](https://github.com/giripathi46-coder/LeetCodeSolvedProblems/tree/main/0067-add-binary/) | Easy |
 | [0392-is-subsequence](https://github.com/giripathi46-coder/LeetCodeSolvedProblems/tree/main/0392-is-subsequence/) | Easy |
+| [0394-decode-string](https://github.com/giripathi46-coder/LeetCodeSolvedProblems/tree/main/0394-decode-string/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/giripathi46-coder/LeetCodeSolvedProblems/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0709-to-lower-case](https://github.com/giripathi46-coder/LeetCodeSolvedProblems/tree/main/0709-to-lower-case/) | Easy |
 | [1108-defanging-an-ip-address](https://github.com/giripathi46-coder/LeetCodeSolvedProblems/tree/main/1108-defanging-an-ip-address/) | Easy |
@@ -198,6 +200,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/giripathi46-coder/LeetCodeSolvedProblems/tree/main/0020-valid-parentheses/) | Easy |
+| [0394-decode-string](https://github.com/giripathi46-coder/LeetCodeSolvedProblems/tree/main/0394-decode-string/) | Medium |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
