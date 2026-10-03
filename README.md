@@ -322,4 +322,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/giripathi46-coder/LeetCodeSolvedProblems/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0183-customers-who-never-order](https://github.com/giripathi46-coder/LeetCodeSolvedProblems/tree/main/0183-customers-who-never-order/) | Easy |
 <!---LeetCode Topics End-->
